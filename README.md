@@ -1,8 +1,8 @@
-<img src="https://i.pinimg.com/originals/0f/25/e4/0f25e4668c1c7740b5ed41835339d67f.gif" align="center" alt="Programmer" width="full">
+<img src="https://miro.medium.com/v2/resize:fit:679/1*zAwc_dAX8EnvER8kqR2y3Q.gif" align="center" alt="Programmer" height="250">
 
 <h1 align="center">Hi 👋, I'm Md. Sagar Hossen</h1>
 <h3 align="center">A passionate Software Quality Assurance (SQA) Automation Engineer</h3>
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" align="right" alt="Programmer" width="250" height="250">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif" align="right" alt="Programmer" width="300" height="250">
 
 
 - 🌱 I’m currently learning **SQA**
