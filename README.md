@@ -1,4 +1,4 @@
-<img src="https://miro.medium.com/v2/resize:fit:679/1*zAwc_dAX8EnvER8kqR2y3Q.gif" align="center" alt="Programmer" height="250">
+<img src="https://miro.medium.com/v2/resize:fit:679/1*zAwc_dAX8EnvER8kqR2y3Q.gif" align="center" alt="Programmer">
 
 <h1 align="center">Hi 👋, I'm Md. Sagar Hossen</h1>
 <h3 align="center">A passionate Software Quality Assurance (SQA) Automation Engineer</h3>
